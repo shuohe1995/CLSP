@@ -60,7 +60,7 @@ ResNet-SSL: trained by the self-supervised learning method [SimCLR](https://gith
 
 ResNet-I: using the model weight pre-trained on ImageNet-1K
 
-These model weights can be found in https://drive.google.com/file/d/129BPiup5Aq0_QW0-YH4q4SewQdP9NI3Q/view?usp=sharing.
+These model weights can be found in [google drive](https://drive.google.com/file/d/129BPiup5Aq0_QW0-YH4q4SewQdP9NI3Q/view?usp=sharing).
 
 [CLIP](https://github.com/salesforce/LAVIS)
 
@@ -131,7 +131,7 @@ sh run.sh 0 voc 0.0 0.0 0.1 5
 
 ## Original and pruned datasets
 
-Original and pruned datasets used in the experiment can be found in https://drive.google.com/file/d/129BPiup5Aq0_QW0-YH4q4SewQdP9NI3Q/view?usp=sharing.
+Original and pruned datasets used in the experiment can be found in [google drive](https://drive.google.com/file/d/129BPiup5Aq0_QW0-YH4q4SewQdP9NI3Q/view?usp=sharing).
 
 ## Upper bound in Figure 1
 
