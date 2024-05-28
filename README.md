@@ -129,9 +129,9 @@ PASCAL_VOC:
 sh run.sh 0 voc 0.0 0.0 0.1 5
 
 
-## Original and pruned datasets
+## Original and pruned candidate labels
 
-Original and pruned datasets used in the experiment can be found in [google drive](https://drive.google.com/file/d/129BPiup5Aq0_QW0-YH4q4SewQdP9NI3Q/view?usp=sharing).
+Original and pruned candidate labels used in the experiment can be found in [google drive](https://drive.google.com/file/d/129BPiup5Aq0_QW0-YH4q4SewQdP9NI3Q/view?usp=sharing).
 
 ## Upper bound in Figure 1
 
